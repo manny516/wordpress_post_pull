@@ -1,0 +1,25 @@
+#right-column {
+  height: 100vh;
+}
+
+.post-box {
+  padding: 20px;
+}
+.post-box h3 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-weight: bold;
+  font-size: 24px;
+}
+.post-box p {
+  padding-bottom: 5px;
+}
+
+.view-link {
+  padding: 4px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: inline-block;
+}
+
+/*# sourceMappingURL=sass.css.map */
